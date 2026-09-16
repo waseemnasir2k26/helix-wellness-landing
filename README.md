@@ -2,6 +2,10 @@
 
 Premium one-page landing for a personalized wellness brand (DNA insights → nutrition → smarter supplements). Built as a speculative deliverable for an Upwork brief by **SkynetLabs**.
 
+## Status
+
+Last reviewed: September 2026 · release v2026.09
+
 **Live:** _populated after first Vercel deploy_
 
 ## Stack
