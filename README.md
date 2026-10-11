@@ -4,7 +4,7 @@ Premium one-page landing for a personalized wellness brand (DNA insights → nut
 
 ## Status
 
-Last reviewed: September 2026 · release v2026.09
+Last reviewed: October 2026 · release v2026.10
 
 **Live:** _populated after first Vercel deploy_
 
@@ -56,3 +56,11 @@ Vercel autodetects Vite. `npm run build` → `dist/`.
 
 ## License
 All rights reserved — SkynetLabs / client handover on signed engagement.
+
+## Work with SkynetLabs
+
+Built by [Waseem Nasir](https://www.skynetjoe.com/?utm_source=github&utm_medium=readme&utm_campaign=helix-wellness-landing) at SkynetLabs — n8n + AI automation for small businesses.
+
+- Hire on Fiverr: https://www.fiverr.com/agencies/skynetjoellc
+- Hire on Upwork: https://www.upwork.com/freelancers/muhammadwaseemnasir
+- Book a free call: https://calendly.com/skynetlabs/schedule-a-free-consultation
